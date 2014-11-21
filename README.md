@@ -1,4 +1,4 @@
 dti-party-time
 ==============
 
-Calculates Approximate Debt to Income Ratio for Mortgage and other grown-up stuff.
+Javascript function which calculates approximate debt to income ratio to estimate pre-qualification chances, monthly mortgage payments, and other grown-up stuff.
